@@ -1,0 +1,17 @@
+{
+    "name": "Top League",
+    "gcm_sender_id": "657518201338",
+    "short_name": "Top League",
+    "description": "Top League",
+    "start_url": "/index.html",
+    "display": "standalone",
+    "background_color": "#1A237E",
+    "theme_color": "#1A237E",
+    "icons": [
+        {
+            "src": "/assets/img/tlcom.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+}
