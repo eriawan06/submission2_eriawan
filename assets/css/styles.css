@@ -11,6 +11,7 @@ td,th {
 }
 .fw-normal {
     font-weight: normal;
+    /* fw */
 }
 .fs-34 {
     font-size: 34px;
